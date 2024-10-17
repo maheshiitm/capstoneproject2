@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: maheshz/cap2
+        image: maheshz/image
         ports:
         - containerPort: 80
